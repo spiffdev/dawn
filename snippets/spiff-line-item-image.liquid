@@ -1,0 +1,13 @@
+ {% for property in line_item.properties %}
+     {% if property.first == "spiffTransactionId" %}
+         <span class='spiff-line-item-image-container' data-spiff-transaction-id="{{ property.last }}">
+         </span>
+         {% assign hasTransactionId = true %}
+     {% endif %}
+     {% if property.first == "previewImage" %}
+         <img src="{{ property.last }}" alt="{{ line_item.title }}" />
+     {% endif %}
+ {% endfor %}
+ {% unless hasTransactionId %}
+     <img class="cart__image{% if line_item.image == null %} hide{% endif %}" src="{{ line_item | img_url: 'x190' }}" alt="{{ line_item.image.alt | escape }}" data-cart-item-image>
+ {% endunless %}
