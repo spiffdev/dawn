@@ -6,12 +6,14 @@
         "vendor": {
           "type": "text",
           "settings": {
-            "text_style": "uppercase",
-            "text": "{{ product.vendor }}"
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
           }
         },
         "title": {
-          "type": "title"
+          "type": "title",
+          "settings": {
+          }
         },
         "subtitle": {
           "type": "text",
@@ -21,22 +23,63 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
-          "type": "variant_picker"
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "974bd1be-70ac-44ff-93db-250fa8036a4d": {
+          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
+          "settings": {
+            "spiff-design": true,
+            "spiff-button-standard-width": 100,
+            "spiff-button-standard-height": 50,
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-colour": "#FFF",
+            "spiff-button-standard-text": "Customise Me",
+            "spiff-button-standard-font-size": 16,
+            "spiff-button-standard-font-weight": "100",
+            "spiff-button-standard-border-colour": "#000000",
+            "spiff-button-standard-border-top": "none",
+            "spiff-button-standard-border-right": "none",
+            "spiff-button-standard-border-bottom": "none",
+            "spiff-button-standard-border-left": "none",
+            "spiff-button-standard-border-width": 0,
+            "spiff-button-standard-border-tr-radius": 0,
+            "spiff-button-standard-border-br-radius": 0,
+            "spiff-button-standard-border-bl-radius": 0,
+            "spiff-button-standard-border-tl-radius": 0,
+            "spiff-button-standard-margin-top": 0,
+            "spiff-button-standard-margin-right": 0,
+            "spiff-button-standard-margin-bottom": 0,
+            "spiff-button-standard-margin-left": 0
+          }
         },
         "buy_buttons": {
-          "type": "buy_buttons"
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
         },
         "description": {
-          "type": "description"
+          "type": "description",
+          "settings": {
+          }
         },
         "share": {
-          "type": "share"
+          "type": "share",
+          "settings": {
+          }
         }
       },
       "block_order": [
@@ -46,13 +89,26 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "974bd1be-70ac-44ff-93db-250fa8036a4d",
         "buy_buttons",
         "description",
         "share"
-      ]
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "enable_video_looping": false
+      }
     },
     "product-recommendations": {
-      "type": "product-recommendations"
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You may also like",
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "add_image_padding": false,
+        "show_image_outline": true,
+        "show_vendor": false
+      }
     }
   },
   "order": [
