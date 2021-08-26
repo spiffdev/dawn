@@ -41,11 +41,11 @@
         "974bd1be-70ac-44ff-93db-250fa8036a4d": {
           "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
           "settings": {
-            "spiff-design": true,
+            "spiff-design": false,
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#000",
-            "spiff-button-standard-colour": "#FFF",
+            "spiff-button-standard-background": "#000000",
+            "spiff-button-standard-colour": "#ffffff",
             "spiff-button-standard-text": "Customise Me",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
