@@ -9,6 +9,11 @@
     "cart-footer": {
       "type": "main-cart-footer",
       "blocks": {
+        "087027b6-4ded-4d0d-9532-7c6ec57b5108": {
+          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-cart\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
+          "settings": {
+          }
+        },
         "subtotal": {
           "type": "subtotal",
           "settings": {
@@ -18,17 +23,12 @@
           "type": "buttons",
           "settings": {
           }
-        },
-        "087027b6-4ded-4d0d-9532-7c6ec57b5108": {
-          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-cart\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
-          "settings": {
-          }
         }
       },
       "block_order": [
+        "087027b6-4ded-4d0d-9532-7c6ec57b5108",
         "subtotal",
-        "buttons",
-        "087027b6-4ded-4d0d-9532-7c6ec57b5108"
+        "buttons"
       ],
       "settings": {
         "show_cart_note": false
