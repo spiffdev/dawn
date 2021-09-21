@@ -77,9 +77,6 @@
                         {%- for property in item.properties -%}
                           {%- assign property_first_char = property.first | slice: 0 -%}
                           {%- if property.last != blank and property_first_char != '_' -%}
-                          {% if property.first contains 'spiffTransactionId' %}
-                        	{% continue %}
-                          {% endif %}
                             <div class="product-option">
                               <dt>{{ property.first }}: </dt>
                               <dd>
