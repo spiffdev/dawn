@@ -45,8 +45,10 @@
               {%- for item in cart.items -%}
                 <tr class="cart-item" id="CartItem-{{ item.index | plus: 1 }}">
                   <td class="cart-item__media">
-                
-                       {% render "spiff-line-item-image", line_item: item %}
+                    
+                      
+                    
+                    {% render "spiff-line-item-image", line_item: item %}
                    
                   </td>
 
