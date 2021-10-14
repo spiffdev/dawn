@@ -38,15 +38,15 @@
           "settings": {
           }
         },
-        "847e6a5a-e0e1-40cd-8ca9-983ffec386e3": {
-          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/spiff-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+        "127ad7bf-d59e-42d0-a8cb-19f8c28b2c8f": {
+          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
           "settings": {
             "spiff-design": false,
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#15cac2",
+            "spiff-button-standard-background": "#0e76f2",
             "spiff-button-standard-colour": "#FFF",
-            "spiff-button-standard-text": "Customise Me",
+            "spiff-button-standard-text": "CUSTOMISE ME NOW!!!",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-colour": "#000000",
@@ -54,7 +54,7 @@
             "spiff-button-standard-border-right": "solid",
             "spiff-button-standard-border-bottom": "solid",
             "spiff-button-standard-border-left": "solid",
-            "spiff-button-standard-border-width": 2,
+            "spiff-button-standard-border-width": 3,
             "spiff-button-standard-border-tr-radius": 0,
             "spiff-button-standard-border-br-radius": 0,
             "spiff-button-standard-border-bl-radius": 0,
@@ -90,7 +90,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "847e6a5a-e0e1-40cd-8ca9-983ffec386e3",
+        "127ad7bf-d59e-42d0-a8cb-19f8c28b2c8f",
         "buy_buttons",
         "description",
         "share"
