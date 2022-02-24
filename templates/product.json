@@ -49,6 +49,34 @@
           "settings": {
           }
         },
+        "4ea157a1-9cb4-433f-a640-27fe719b245f": {
+          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
+          "settings": {
+            "spiff-design": false,
+            "product": "the-product",
+            "spiff-button-standard-width": 100,
+            "spiff-button-standard-height": 50,
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-colour": "#FFF",
+            "spiff-button-standard-text": "Customise Me",
+            "spiff-button-standard-font-size": 16,
+            "spiff-button-standard-font-weight": "100",
+            "spiff-button-standard-border-colour": "#000000",
+            "spiff-button-standard-border-top": "none",
+            "spiff-button-standard-border-right": "none",
+            "spiff-button-standard-border-bottom": "none",
+            "spiff-button-standard-border-left": "none",
+            "spiff-button-standard-border-width": 0,
+            "spiff-button-standard-border-tr-radius": 0,
+            "spiff-button-standard-border-br-radius": 0,
+            "spiff-button-standard-border-bl-radius": 0,
+            "spiff-button-standard-border-tl-radius": 0,
+            "spiff-button-standard-margin-top": 0,
+            "spiff-button-standard-margin-right": 0,
+            "spiff-button-standard-margin-bottom": 0,
+            "spiff-button-standard-margin-left": 0
+          }
+        },
         "share": {
           "type": "share",
           "settings": {
@@ -64,6 +92,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "4ea157a1-9cb4-433f-a640-27fe719b245f",
         "share"
       ],
       "settings": {
