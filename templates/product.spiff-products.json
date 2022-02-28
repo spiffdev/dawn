@@ -41,8 +41,8 @@
         "127ad7bf-d59e-42d0-a8cb-19f8c28b2c8f": {
           "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/spiff-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
           "settings": {
-            "spiff-design": false,
-            "product": "the-product",
+            "spiff-design": true,
+            "product": "",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
             "spiff-button-standard-background": "#0e76f2",
