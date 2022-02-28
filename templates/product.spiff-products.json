@@ -60,7 +60,7 @@
           "settings": {
             "selected-product": "{{product}}",
             "spiff-redirect": false,
-            "redirect-cart": false,
+            "redirect-cart": true,
             "spiff-button-standard-text": "Customize Me",
             "spiff-button-sold-out-text": "Sold Out Sorry!",
             "spiff-button-standard-width": 100,
