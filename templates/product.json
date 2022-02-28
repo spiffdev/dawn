@@ -38,36 +38,6 @@
           "settings": {
           }
         },
-        "0af744f3-5f2a-442f-bfa1-5bd3dbe7580e": {
-          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
-          "settings": {
-            "selected-product": "vegemite",
-            "spiff-design": true,
-            "spiff-redirect": false,
-            "spiff-button-standard-text": "CUSTOMISE ME",
-            "spiff-button-sold-out-text": "Sold Out",
-            "spiff-button-standard-width": 100,
-            "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#1878b9",
-            "spiff-button-standard-color": "#ffffff",
-            "spiff-button-standard-font-size": 16,
-            "spiff-button-standard-font-weight": "200",
-            "spiff-button-standard-border-color": "#1a1b18",
-            "spiff-button-standard-border-top": "solid",
-            "spiff-button-standard-border-right": "solid",
-            "spiff-button-standard-border-bottom": "solid",
-            "spiff-button-standard-border-left": "solid",
-            "spiff-button-standard-border-width": 4,
-            "spiff-button-standard-border-tr-radius": 0,
-            "spiff-button-standard-border-br-radius": 0,
-            "spiff-button-standard-border-bl-radius": 0,
-            "spiff-button-standard-border-tl-radius": 0,
-            "spiff-button-standard-margin-top": 0,
-            "spiff-button-standard-margin-right": 0,
-            "spiff-button-standard-margin-bottom": 0,
-            "spiff-button-standard-margin-left": 0
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -92,7 +62,6 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "0af744f3-5f2a-442f-bfa1-5bd3dbe7580e",
         "buy_buttons",
         "description",
         "share"
