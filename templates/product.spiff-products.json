@@ -41,11 +41,10 @@
         "8e0cd61b-6e66-4fcf-9a3f-5a806f24c737": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "selected-product": "chinese-zebra-49",
             "spiff-design": false,
             "spiff-redirect": false,
             "spiff-button-standard-text": "Customize Me",
-            "spiff-button-sold-out-text": "Sold Out Sorry!",
+            "spiff-button-sold-out-text": "Sold Out",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
             "spiff-button-standard-background": "#e22120",
