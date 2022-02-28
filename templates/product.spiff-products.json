@@ -59,8 +59,8 @@
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
             "selected-product": "{{product}}",
-            "spiff-redirect": false,
-            "redirect-cart": true,
+            "spiff-design": false,
+            "spiff-redirect": true,
             "spiff-button-standard-text": "Customize Me",
             "spiff-button-sold-out-text": "Sold Out Sorry!",
             "spiff-button-standard-width": 100,
