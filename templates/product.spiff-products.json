@@ -43,7 +43,7 @@
           "settings": {
             "selected-product": "{{product}}",
             "spiff-design": false,
-            "spiff-redirect": true,
+            "spiff-redirect": false,
             "spiff-button-standard-text": "PERSONALISE ME",
             "spiff-button-sold-out-text": "SOLD OUT",
             "spiff-button-standard-width": 100,

@@ -2,14 +2,6 @@
   "current": {
     "content_for_index": [
 
-    ],
-    "blocks": {
-      "10365604205680316945": {
-        "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/spiff-checkout\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
-        "disabled": false,
-        "settings": {
-        }
-      }
-    }
+    ]
   }
 }
