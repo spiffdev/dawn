@@ -63,15 +63,15 @@
         "584f286b-35b0-4b73-88fc-97da0ea09094": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "selected-product": "generic-greeting-card",
+            "selected-product": "",
             "spiff-design": false,
             "spiff-redirect": true,
             "spiff-button-standard-text": "Customize Me",
             "spiff-button-sold-out-text": "Sold Out Sorry!",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#000",
-            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-background": "#000000",
+            "spiff-button-standard-color": "#ffffff",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-color": "",
