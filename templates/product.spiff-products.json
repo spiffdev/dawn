@@ -42,7 +42,7 @@
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
             "selected-product": "{{product}}",
-            "spiff-design": false,
+            "spiff-design": true,
             "spiff-redirect": false,
             "spiff-button-standard-text": "PERSONALISE ME",
             "spiff-button-sold-out-text": "SOLD OUT",
