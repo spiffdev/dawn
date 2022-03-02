@@ -93,7 +93,7 @@
         "33dd51bd-1648-4c73-803f-2122979e9461": {
           "type": "custom_liquid",
           "settings": {
-            "custom_liquid": "{% if product.id == 7201852620998 %}\n<script> console.log(\"hello there\");\n<\/script>\n{% endif %}"
+            "custom_liquid": "{% render 'spiff-button-standard', product_handle: product_handle %}"
           }
         }
       },
