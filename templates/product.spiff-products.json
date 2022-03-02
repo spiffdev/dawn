@@ -38,18 +38,18 @@
           "settings": {
           }
         },
-        "f7efb734-c00a-4524-ac43-f006d3307263": {
-          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+        "9a773ebe-af67-485c-af2f-7418c68ec366": {
+          "type": "shopify:\/\/apps\/spiff-connect-local-three\/blocks\/customise-button\/9073ef7a-373f-4db2-a43f-ef7c569086ba",
           "settings": {
             "selected-product": "{{product}}",
-            "spiff-design": true,
+            "spiff-design": false,
             "spiff-redirect": false,
-            "spiff-button-standard-text": "PERSONALISE ME",
-            "spiff-button-sold-out-text": "SOLD OUT",
+            "spiff-button-standard-text": "Customize Me",
+            "spiff-button-sold-out-text": "Sold Out Sorry!",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#0085ff",
-            "spiff-button-standard-color": "#ffffff",
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-color": "#FFF",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-color": "",
@@ -93,7 +93,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "f7efb734-c00a-4524-ac43-f006d3307263",
+        "9a773ebe-af67-485c-af2f-7418c68ec366",
         "buy_buttons",
         "description",
         "share"
