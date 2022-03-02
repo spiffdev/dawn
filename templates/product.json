@@ -65,7 +65,7 @@
           "settings": {
             "selected-product": "",
             "spiff-design": false,
-            "spiff-redirect": true,
+            "spiff-redirect": false,
             "spiff-button-standard-text": "Customize Me",
             "spiff-button-sold-out-text": "Sold Out Sorry!",
             "spiff-button-standard-width": 100,
