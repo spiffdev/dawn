@@ -60,36 +60,6 @@
           "settings": {
           }
         },
-        "da632cc6-61d8-4125-a9a5-008057d990fb": {
-          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
-          "settings": {
-            "selected-product": "",
-            "spiff-design": false,
-            "spiff-redirect": false,
-            "spiff-button-standard-text": "Customize Me",
-            "spiff-button-sold-out-text": "Sold Out Sorry!",
-            "spiff-button-standard-width": 100,
-            "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#000000",
-            "spiff-button-standard-color": "#ffffff",
-            "spiff-button-standard-font-size": 16,
-            "spiff-button-standard-font-weight": "100",
-            "spiff-button-standard-border-color": "",
-            "spiff-button-standard-border-top": "none",
-            "spiff-button-standard-border-right": "none",
-            "spiff-button-standard-border-bottom": "none",
-            "spiff-button-standard-border-left": "none",
-            "spiff-button-standard-border-width": 0,
-            "spiff-button-standard-border-tr-radius": 0,
-            "spiff-button-standard-border-br-radius": 0,
-            "spiff-button-standard-border-bl-radius": 0,
-            "spiff-button-standard-border-tl-radius": 0,
-            "spiff-button-standard-margin-top": 0,
-            "spiff-button-standard-margin-right": 0,
-            "spiff-button-standard-margin-bottom": 0,
-            "spiff-button-standard-margin-left": 0
-          }
-        },
         "33dd51bd-1648-4c73-803f-2122979e9461": {
           "type": "custom_liquid",
           "settings": {
@@ -107,7 +77,6 @@
         "buy_buttons",
         "description",
         "share",
-        "da632cc6-61d8-4125-a9a5-008057d990fb",
         "33dd51bd-1648-4c73-803f-2122979e9461"
       ],
       "settings": {
