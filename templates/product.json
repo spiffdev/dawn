@@ -51,7 +51,7 @@
             "spiff-bulk": false,
             "spiff-redirect-cart": true,
             "spiff-button-hide": false,
-            "spiff-button-backdrop": true,
+            "spiff-button-backdrop": false,
             "spiff-button-application-key": "",
             "spiff-button-standard-text": "Customize Me",
             "spiff-button-standard-width": 100,
