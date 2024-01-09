@@ -48,7 +48,7 @@
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
             "spiff-api-region": "au",
-            "spiff-button-application-key": "8R9Oe@pZ^#EYuS#Sl0Qlnjz3G7#-*3CA",
+            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
             "spiff-button-product-collection-id": "b6ef7aec-aa35-4c1c-a1fa-287934add500",
             "selected-product": "{{product}}",
             "spiff-button-hide": false,
