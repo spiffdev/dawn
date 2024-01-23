@@ -47,13 +47,18 @@
         "1a71f67b-4d91-42f8-9e3f-a9fdb4b0016d": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-api-region": "au",
             "spiff-button-application-key": "",
             "spiff-button-product-collection-id": "",
             "selected-product": "{{product}}",
             "spiff-button-hide": false,
             "spiff-button-backdrop": false,
+            "spiff-force-fullscreen": false,
+            "spiff-loading-background": "black",
+            "spiff-loading-image": "shopify:\/\/shop_images\/TheCustomChef-CuisineProKnifeAnimationGIF1920V13-ezgif.com-gif-to-webp-converter.webp",
+            "spiff-loading-image-css": "width: 100%;",
             "spiff-redirect-cart": true,
+            "spiff-hide-transaction-cart": false,
+            "spiff-hide-preview-cart": false,
             "spiff-force-reload": false,
             "spiff-additional-product-metadata": false,
             "spiff-button-standard-text": "Customize Me",
@@ -64,10 +69,7 @@
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-radius": 0,
-            "spiff-button-standard-margin-top": 0,
-            "spiff-button-standard-margin-right": 0,
-            "spiff-button-standard-margin-bottom": 0,
-            "spiff-button-standard-margin-left": 0
+            "spiff-button-standard-margin": "0px 0px 0px 0px"
           }
         },
         "description": {
