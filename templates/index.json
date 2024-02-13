@@ -84,6 +84,62 @@
     "17077863420a2501dc": {
       "type": "apps",
       "blocks": {
+        "spiff_connect_dev_customise_button_AcWmJK": {
+          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+          "settings": {
+            "spiff-button-application-key": "",
+            "spiff-button-product-collection-id": "",
+            "selected-product": "",
+            "spiff-button-hide": true,
+            "spiff-button-backdrop": false,
+            "spiff-force-fullscreen": false,
+            "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+            "spiff-loading-image-css": "",
+            "spiff-loading-fade-out": 0,
+            "spiff-redirect-cart": true,
+            "spiff-hide-transaction-cart": false,
+            "spiff-hide-preview-cart": false,
+            "spiff-force-reload": false,
+            "spiff-additional-product-metadata": false,
+            "spiff-button-standard-text": "Customize Me",
+            "spiff-button-standard-width": 100,
+            "spiff-button-standard-height": 50,
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-font-size": 16,
+            "spiff-button-standard-font-weight": "100",
+            "spiff-button-standard-border-radius": 0,
+            "spiff-button-standard-margin": "0px 0px 0px 0px"
+          }
+        },
+        "spiff_connect_dev_customise_button_cbF47q": {
+          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+          "settings": {
+            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
+            "spiff-button-product-collection-id": "",
+            "selected-product": "tee",
+            "spiff-button-hide": true,
+            "spiff-button-backdrop": false,
+            "spiff-force-fullscreen": false,
+            "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+            "spiff-loading-image-css": "",
+            "spiff-loading-fade-out": 0,
+            "spiff-redirect-cart": true,
+            "spiff-hide-transaction-cart": false,
+            "spiff-hide-preview-cart": false,
+            "spiff-force-reload": false,
+            "spiff-additional-product-metadata": false,
+            "spiff-button-standard-text": "Customize Button",
+            "spiff-button-standard-width": 100,
+            "spiff-button-standard-height": 50,
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-font-size": 16,
+            "spiff-button-standard-font-weight": "100",
+            "spiff-button-standard-border-radius": 0,
+            "spiff-button-standard-margin": "0px 0px 0px 0px"
+          }
+        },
         "spiff_connect_dev_customer_portal_4fpWTa": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customer-portal\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
@@ -96,8 +152,8 @@
             "spiff-button-standard-text": "Customer Portal",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#000",
-            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-background": "#000000",
+            "spiff-button-standard-color": "#ffffff",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-radius": 0,
@@ -106,6 +162,8 @@
         }
       },
       "block_order": [
+        "spiff_connect_dev_customise_button_AcWmJK",
+        "spiff_connect_dev_customise_button_cbF47q",
         "spiff_connect_dev_customer_portal_4fpWTa"
       ],
       "settings": {
