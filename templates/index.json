@@ -87,7 +87,7 @@
         "spiff_connect_dev_customise_button_cbF47q": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
+            "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
             "spiff-button-product-collection-id": "",
             "selected-product": "cloud-surfboard",
             "spiff-button-hide": true,
@@ -115,7 +115,7 @@
         "spiff_connect_dev_customer_portal_4fpWTa": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customer-portal\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
+            "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": false,
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
