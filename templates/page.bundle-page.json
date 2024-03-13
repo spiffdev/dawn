@@ -4,9 +4,48 @@
       "type": "main-page",
       "settings": {
       }
+    },
+    "171030879194bfa45b": {
+      "type": "apps",
+      "blocks": {
+        "spiff_connect_dev_bundle_button_njyEmQ": {
+          "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/bundle-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+          "settings": {
+            "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
+            "spiff-button-product-collection-id": "b6ef7aec-aa35-4c1c-a1fa-287934add500",
+            "selected-product": "",
+            "spiff-button-backdrop": false,
+            "spiff-force-fullscreen": false,
+            "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
+            "spiff-loading-image-css": "",
+            "spiff-loading-fade-out": 0,
+            "spiff-redirect-cart": true,
+            "spiff-hide-transaction-cart": false,
+            "spiff-hide-preview-cart": false,
+            "spiff-force-reload": false,
+            "spiff-additional-product-metadata": false,
+            "spiff-button-standard-text": "Launch Bundle Experience",
+            "spiff-button-standard-width": 100,
+            "spiff-button-standard-height": 50,
+            "spiff-button-standard-background": "#000",
+            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-font-size": 16,
+            "spiff-button-standard-font-weight": "100",
+            "spiff-button-standard-border-radius": 0,
+            "spiff-button-standard-margin": "0px 0px 0px 0px"
+          }
+        }
+      },
+      "block_order": [
+        "spiff_connect_dev_bundle_button_njyEmQ"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "171030879194bfa45b"
   ]
 }
