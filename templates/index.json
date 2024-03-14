@@ -59,7 +59,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>"
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review. <\/p>"
           }
         },
         "button": {
@@ -93,6 +93,7 @@
             "spiff-button-hide": true,
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": false,
+            "spiff-custom-experience-id": "",
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
             "spiff-loading-image-css": "",
             "spiff-loading-fade-out": 0,
