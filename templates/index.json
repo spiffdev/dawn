@@ -118,7 +118,7 @@
           "settings": {
             "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
             "spiff-button-backdrop": false,
-            "spiff-force-fullscreen": false,
+            "spiff-force-fullscreen": true,
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
             "spiff-loading-image-css": "",
             "spiff-loading-fade-out": 0,
