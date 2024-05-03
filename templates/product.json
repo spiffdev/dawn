@@ -55,6 +55,7 @@
             "spiff-force-fullscreen": false,
             "spiff-custom-experience-id": "",
             "spiff-loading-background": "black",
+            "spiff-loading-image": "shopify:\/\/shop_images\/TheCustomChef-CuisineProKnifeAnimationGIF1920V13-ezgif.com-gif-to-webp-converter_7c489f5f-0a51-4324-ac62-cc9c29b7bf79.webp",
             "spiff-loading-image-css": "width: 100%;",
             "spiff-loading-fade-out": 0,
             "spiff-redirect-cart": true,
