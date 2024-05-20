@@ -47,7 +47,7 @@
         "1a71f67b-4d91-42f8-9e3f-a9fdb4b0016d": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
+            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
             "spiff-button-product-collection-id": "",
             "selected-product": "{{product}}",
             "spiff-button-hide": false,
