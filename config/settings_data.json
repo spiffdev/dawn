@@ -100,6 +100,14 @@
     },
     "content_for_index": [
 
-    ]
+    ],
+    "blocks": {
+      "16369053216054033451": {
+        "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/cart-permalink-embed\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
   }
 }
