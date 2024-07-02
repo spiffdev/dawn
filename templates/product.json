@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "164602551144235dfc": {
@@ -47,19 +56,18 @@
         "1a71f67b-4d91-42f8-9e3f-a9fdb4b0016d": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customise-button\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-button-application-key": "WT3AWtOLJcytYM2sS!hkjc5qbm6RBqag",
+            "spiff-button-application-key": "Kbi31tRvPEhcv12UeJBoZ9lCdCTuZJrS",
             "spiff-button-product-collection-id": "",
             "selected-product": "{{product}}",
-            "spiff-button-hide": false,
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": false,
             "spiff-custom-experience-id": "",
             "spiff-loading-background": "black",
             "spiff-loading-image-css": "width: 100%;",
             "spiff-loading-fade-out": 0,
-            "spiff-redirect-cart": true,
-            "spiff-hide-transaction-cart": false,
-            "spiff-hide-preview-cart": false,
+            "spiff-add-cart": true,
+            "spiff-should-redirect": true,
+            "spiff-redirect-route": "cart",
             "spiff-force-reload": false,
             "spiff-additional-product-metadata": false,
             "spiff-button-standard-text": "Customize Me",
