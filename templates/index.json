@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "image_banner": {
@@ -90,16 +99,15 @@
             "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
             "spiff-button-product-collection-id": "",
             "selected-product": "cloud-surfboard",
-            "spiff-button-hide": true,
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": false,
             "spiff-custom-experience-id": "",
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
             "spiff-loading-image-css": "",
             "spiff-loading-fade-out": 0,
-            "spiff-redirect-cart": true,
-            "spiff-hide-transaction-cart": false,
-            "spiff-hide-preview-cart": false,
+            "spiff-add-cart": true,
+            "spiff-should-redirect": true,
+            "spiff-redirect-route": "cart",
             "spiff-force-reload": false,
             "spiff-additional-product-metadata": false,
             "spiff-button-standard-text": "Customize Button",
@@ -116,7 +124,7 @@
         "spiff_connect_dev_customer_portal_4fpWTa": {
           "type": "shopify:\/\/apps\/spiff-connect-dev\/blocks\/customer-portal\/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
-            "spiff-button-application-key": "JLneHU4WH3bFmSBBEA1BnHO3n1HErngr",
+            "spiff-button-application-key": "Kbi31tRvPEhcv12UeJBoZ9lCdCTuZJrS",
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": true,
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
