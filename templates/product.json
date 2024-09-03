@@ -71,6 +71,7 @@
             "spiff-force-reload": false,
             "spiff-additional-product-metadata": false,
             "spiff-button-standard-text": "Customize Me",
+            "finish-button-text": "Add to Cart",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
             "spiff-button-standard-background": "#000000",
@@ -90,6 +91,12 @@
           "type": "share",
           "settings": {
           }
+        },
+        "buy_buttons_98GxrJ": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
         }
       },
       "block_order": [
@@ -101,7 +108,8 @@
         "quantity_selector",
         "1a71f67b-4d91-42f8-9e3f-a9fdb4b0016d",
         "description",
-        "share"
+        "share",
+        "buy_buttons_98GxrJ"
       ],
       "settings": {
         "enable_sticky_info": true,
