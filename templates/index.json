@@ -146,7 +146,7 @@
           "type": "shopify://apps/spiff-connect-dev/blocks/bundle-button/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
             "spiff-button-application-key": "Kbi31tRvPEhcv12UeJBoZ9lCdCTuZJrS",
-            "spiff-button-product-collection-id": "",
+            "spiff-button-product-collection-id": "a2ecde7b-3c8b-4d75-904c-542148917c3a",
             "selected-product": "",
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": false,
