@@ -1,3 +1,4 @@
+ {%- assign line_item = line_item.item_components.first | default: line_item -%}
  {% for property in line_item.properties %}
      {% if property.first == "spiffTransactionId" %}
          <span class='spiff-line-item-image-container' data-spiff-transaction-id="{{ property.last }}">
