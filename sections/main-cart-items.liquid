@@ -52,6 +52,7 @@
                     {% for comp in item.item_components.first %}
                         {{ comp | json }}
                     {% endfor %}
+                    {{ item | json }}
                    
                   </td>
 
