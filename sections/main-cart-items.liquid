@@ -49,6 +49,7 @@
                   </td>
 
                   <td class="cart-item__details">
+                    {{ item.properties._merged }}
                     {%- if section.settings.show_vendor -%}
                       <p class="caption-with-letter-spacing light">{{ item.product.vendor }}</p>
                     {%- endif -%}
