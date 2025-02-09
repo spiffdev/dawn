@@ -159,7 +159,7 @@
             "spiff-redirect-route": "cart",
             "spiff-force-reload": false,
             "spiff-additional-product-metadata": false,
-            "spiff-button-standard-text": "Single Product Mode Test",
+            "spiff-button-standard-text": "Bundle Single Product Mode Test",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
             "spiff-button-standard-background": "#000",
