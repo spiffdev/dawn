@@ -4,7 +4,7 @@
          </span>
          {% assign hasTransactionId = true %}
      {% endif %}
-     {% if property.first == "previewImage" %}
+     {% if property.first == "_previewImage" %}
          <img class="cart-item__image" src="{{ property.last }}" alt="{{ line_item.title }}" />
      {% endif %}
  {% endfor %}
