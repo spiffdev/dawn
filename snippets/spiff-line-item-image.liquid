@@ -5,7 +5,7 @@
          {% assign hasTransactionId = true %}
      {% endif %}
      {% if property.first == "previewImage" %}
-         <img class="cart-item__image" src="{{ property.last }}" alt="{{ line_item.title }}" onerror="this.src = '{{ line_item | img_url: 'x190' }}'; this.onerror='';" />
+         <img class="cart-item__image" src="{{ property.last }}" alt="{{ line_item.title }}" />
      {% endif %}
  {% endfor %}
  {% unless hasTransactionId %}
