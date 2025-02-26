@@ -146,6 +146,7 @@
           "type": "shopify://apps/spiff-connect-dev/blocks/bundle-button/1e6d8fc7-c271-4ff2-ae84-76c13ff728b8",
           "settings": {
             "spiff-button-application-key": "Kbi31tRvPEhcv12UeJBoZ9lCdCTuZJrS",
+            "spiff-button-theme-config-id": "4dc1f0f3-00df-4a70-8cd8-283f89ceed4c",
             "spiff-button-product-collection-id": "a2ecde7b-3c8b-4d75-904c-542148917c3a",
             "selected-product": "",
             "spiff-button-backdrop": false,
@@ -162,8 +163,8 @@
             "spiff-button-standard-text": "Bundle Single Product Mode Test",
             "spiff-button-standard-width": 100,
             "spiff-button-standard-height": 50,
-            "spiff-button-standard-background": "#000",
-            "spiff-button-standard-color": "#FFF",
+            "spiff-button-standard-background": "#000000",
+            "spiff-button-standard-color": "#ffffff",
             "spiff-button-standard-font-size": 16,
             "spiff-button-standard-font-weight": "100",
             "spiff-button-standard-border-radius": 0,
