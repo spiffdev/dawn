@@ -151,7 +151,7 @@
             "selected-product": "",
             "spiff-button-backdrop": false,
             "spiff-force-fullscreen": true,
-            "spiff-single-mode": true,
+            "spiff-single-mode": false,
             "spiff-loading-background": "linear-gradient(180deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
             "spiff-loading-image-css": "",
             "spiff-loading-fade-out": 0,
